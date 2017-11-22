@@ -11,7 +11,7 @@ class Main extends Component {
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Aliquam
+                IOS
               </a>
             </h3>
             <p>Ipsum dolor sit amet</p>
@@ -24,7 +24,7 @@ class Main extends Component {
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Tempus
+                Android
               </a>
             </h3>
             <p>feugiat amet tempus</p>
@@ -37,7 +37,7 @@ class Main extends Component {
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Magna
+                Web
               </a>
             </h3>
             <p>Lorem etiam nullam</p>

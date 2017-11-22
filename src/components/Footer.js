@@ -7,12 +7,18 @@ class Footer extends Component {
         <div class="inner">
           <ul class="icons">
             <li>
-              <a href="#" class="icon alt fa-twitter">
+              <a
+                href="https://twitter.com/BracketFactory"
+                class="icon alt fa-twitter"
+              >
                 <span class="label">Twitter</span>
               </a>
             </li>
             <li>
-              <a href="#" class="icon alt fa-facebook">
+              <a
+                href="https://www.facebook.com/bracketfactory/"
+                class="icon alt fa-facebook"
+              >
                 <span class="label">Facebook</span>
               </a>
             </li>
@@ -22,7 +28,10 @@ class Footer extends Component {
               </a>
             </li>
             <li>
-              <a href="#" class="icon alt fa-github">
+              <a
+                href="https://github.com/damianesteban"
+                class="icon alt fa-github"
+              >
                 <span class="label">GitHub</span>
               </a>
             </li>
@@ -33,9 +42,9 @@ class Footer extends Component {
             </li>
           </ul>
           <ul class="copyright">
-            <li>&copy; Untitled</li>
+            <li>Bracket Factor</li>
             <li>
-              Design: <a href="https://html5up.net">HTML5 UP</a>
+              <a href="#">Code as Art</a>
             </li>
           </ul>
         </div>

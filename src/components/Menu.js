@@ -9,10 +9,10 @@ class Menu extends Component {
             <a href="index.html">Home</a>
           </li>
           <li>
-            <a href="landing.html">Landing</a>
+            <a href="landing.html">Social</a>
           </li>
           <li>
-            <a href="generic.html">Generic</a>
+            <a href="generic.html">Contact</a>
           </li>
           <li>
             <a href="elements.html">Elements</a>
@@ -21,7 +21,7 @@ class Menu extends Component {
         <ul className="actions vertical">
           <li>
             <a href="#" className="button special fit">
-              Get Started
+              Our Work
             </a>
           </li>
           <li>

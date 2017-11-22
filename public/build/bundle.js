@@ -18395,7 +18395,10 @@ var Footer = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "#", "class": "icon alt fa-twitter" },
+                {
+                  href: "https://twitter.com/BracketFactory",
+                  "class": "icon alt fa-twitter"
+                },
                 _react2.default.createElement(
                   "span",
                   { "class": "label" },
@@ -18408,7 +18411,10 @@ var Footer = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "#", "class": "icon alt fa-facebook" },
+                {
+                  href: "https://www.facebook.com/bracketfactory/",
+                  "class": "icon alt fa-facebook"
+                },
                 _react2.default.createElement(
                   "span",
                   { "class": "label" },
@@ -18434,7 +18440,10 @@ var Footer = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "#", "class": "icon alt fa-github" },
+                {
+                  href: "https://github.com/damianesteban",
+                  "class": "icon alt fa-github"
+                },
                 _react2.default.createElement(
                   "span",
                   { "class": "label" },
@@ -18462,16 +18471,15 @@ var Footer = function (_Component) {
             _react2.default.createElement(
               "li",
               null,
-              "\xA9 Untitled"
+              "Bracket Factor"
             ),
             _react2.default.createElement(
               "li",
               null,
-              "Design: ",
               _react2.default.createElement(
                 "a",
-                { href: "https://html5up.net" },
-                "HTML5 UP"
+                { href: "#" },
+                "Code as Art"
               )
             )
           )
@@ -18792,7 +18800,7 @@ var Main = function (_Component) {
               _react2.default.createElement(
                 "a",
                 { href: "landing.html", className: "link" },
-                "Aliquam"
+                "IOS"
               )
             ),
             _react2.default.createElement(
@@ -18819,7 +18827,7 @@ var Main = function (_Component) {
               _react2.default.createElement(
                 "a",
                 { href: "landing.html", className: "link" },
-                "Tempus"
+                "Android"
               )
             ),
             _react2.default.createElement(
@@ -18846,7 +18854,7 @@ var Main = function (_Component) {
               _react2.default.createElement(
                 "a",
                 { href: "landing.html", className: "link" },
-                "Magna"
+                "Web"
               )
             ),
             _react2.default.createElement(
@@ -19090,7 +19098,7 @@ var Menu = function (_Component) {
             _react2.default.createElement(
               "a",
               { href: "landing.html" },
-              "Landing"
+              "Social"
             )
           ),
           _react2.default.createElement(
@@ -19099,7 +19107,7 @@ var Menu = function (_Component) {
             _react2.default.createElement(
               "a",
               { href: "generic.html" },
-              "Generic"
+              "Contact"
             )
           ),
           _react2.default.createElement(
@@ -19121,7 +19129,7 @@ var Menu = function (_Component) {
             _react2.default.createElement(
               "a",
               { href: "#", className: "button special fit" },
-              "Get Started"
+              "Our Work"
             )
           ),
           _react2.default.createElement(
