@@ -3,15 +3,15 @@ import React, { Component, StyleSheet } from "react";
 class Banner extends Component {
   render() {
     return (
-      <section id="banner" className="major">
+      <section id="banner" className="major" alt="">
         <div className="inner">
           <header className="major">
             <h1 className="tag">&lt; Implementing the Future /&gt;</h1>
           </header>
           <div className="content">
             <p>
-              A responsive site template designed by HTML5 UP<br />
-              and released under the Creative Commons.
+              NYC Based Mobile and Web Developers<br />
+              Building For Tomorrow
             </p>
             <ul className="actions">
               <li>

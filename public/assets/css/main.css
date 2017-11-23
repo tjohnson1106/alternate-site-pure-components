@@ -3482,8 +3482,8 @@
 			width: 30em;
 			white-space:nowrap;
 			overflow:hidden;
-			-webkit-animation: type 2.3s steps(175, end);
-			animation: type 2.3s steps(175, end);
+			-webkit-animation: type 2.3s steps(200, end);
+			animation: type 2.3s steps(200, end);
 		}
 		
 		@keyframes type{

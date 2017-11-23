@@ -18993,7 +18993,7 @@ var Banner = function (_Component) {
     value: function render() {
       return _react2.default.createElement(
         "section",
-        { id: "banner", className: "major" },
+        { id: "banner", className: "major", alt: "" },
         _react2.default.createElement(
           "div",
           { className: "inner" },
@@ -19012,9 +19012,9 @@ var Banner = function (_Component) {
             _react2.default.createElement(
               "p",
               null,
-              "A responsive site template designed by HTML5 UP",
+              "NYC Based Mobile and Web Developers",
               _react2.default.createElement("br", null),
-              "and released under the Creative Commons."
+              "Building For Tomorrow"
             ),
             _react2.default.createElement(
               "ul",
