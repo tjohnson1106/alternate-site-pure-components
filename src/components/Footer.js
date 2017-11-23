@@ -42,9 +42,9 @@ class Footer extends Component {
             </li>
           </ul>
           <ul class="copyright">
-            <li>Bracket Factor</li>
+            <li>Bracket Factory</li>
             <li>
-              <a href="#">Code as Art</a>
+              <a href="#">Code as Art Art as Code</a>
             </li>
           </ul>
         </div>

@@ -18471,7 +18471,7 @@ var Footer = function (_Component) {
             _react2.default.createElement(
               "li",
               null,
-              "Bracket Factor"
+              "Bracket Factory"
             ),
             _react2.default.createElement(
               "li",
@@ -18479,7 +18479,7 @@ var Footer = function (_Component) {
               _react2.default.createElement(
                 "a",
                 { href: "#" },
-                "Code as Art"
+                "Code as Art Art as Code"
               )
             )
           )
@@ -18606,7 +18606,7 @@ var Contact = function (_Component) {
                 _react2.default.createElement(
                   "a",
                   { href: "#" },
-                  "information@untitled.tld"
+                  "info@bracketfactory.com"
                 )
               )
             ),
@@ -18644,11 +18644,10 @@ var Contact = function (_Component) {
                 _react2.default.createElement(
                   "span",
                   null,
-                  "1234 Somewhere Road #5432",
+                  "323 East 21st Street",
                   _react2.default.createElement("br", null),
-                  "Nashville, TN 00000",
-                  _react2.default.createElement("br", null),
-                  "United States of America"
+                  "New York, NY 10010",
+                  _react2.default.createElement("br", null)
                 )
               )
             )
@@ -18789,7 +18788,7 @@ var Main = function (_Component) {
           _react2.default.createElement(
             "span",
             { className: "image" },
-            _react2.default.createElement("img", { src: "images/pic01.jpg", alt: "" })
+            _react2.default.createElement("img", { src: "../images/horizon_dark.jpg", alt: "" })
           ),
           _react2.default.createElement(
             "header",
@@ -18816,34 +18815,7 @@ var Main = function (_Component) {
           _react2.default.createElement(
             "span",
             { className: "image" },
-            _react2.default.createElement("img", { src: "images/pic02.jpg", alt: "" })
-          ),
-          _react2.default.createElement(
-            "header",
-            { className: "major" },
-            _react2.default.createElement(
-              "h3",
-              null,
-              _react2.default.createElement(
-                "a",
-                { href: "landing.html", className: "link" },
-                "Android"
-              )
-            ),
-            _react2.default.createElement(
-              "p",
-              null,
-              "feugiat amet tempus"
-            )
-          )
-        ),
-        _react2.default.createElement(
-          "article",
-          null,
-          _react2.default.createElement(
-            "span",
-            { className: "image" },
-            _react2.default.createElement("img", { src: "images/pic03.jpg", alt: "" })
+            _react2.default.createElement("img", { src: "../images/Web.jpg", alt: "" })
           ),
           _react2.default.createElement(
             "header",
@@ -18860,7 +18832,7 @@ var Main = function (_Component) {
             _react2.default.createElement(
               "p",
               null,
-              "Lorem etiam nullam"
+              "feugiat amet tempus"
             )
           )
         ),
@@ -18870,7 +18842,8 @@ var Main = function (_Component) {
           _react2.default.createElement(
             "span",
             { className: "image" },
-            _react2.default.createElement("img", { src: "images/pic04.jpg", alt: "" })
+            " ",
+            _react2.default.createElement("img", { src: "../images/design.jpg", alt: "" })
           ),
           _react2.default.createElement(
             "header",
@@ -18881,7 +18854,34 @@ var Main = function (_Component) {
               _react2.default.createElement(
                 "a",
                 { href: "landing.html", className: "link" },
-                "Ipsum"
+                "Design"
+              )
+            ),
+            _react2.default.createElement(
+              "p",
+              null,
+              "Lorem etiam nullam"
+            )
+          )
+        ),
+        _react2.default.createElement(
+          "article",
+          null,
+          _react2.default.createElement(
+            "span",
+            { className: "image" },
+            _react2.default.createElement("img", { src: "../images/android.jpg", alt: "" })
+          ),
+          _react2.default.createElement(
+            "header",
+            { className: "major" },
+            _react2.default.createElement(
+              "h3",
+              null,
+              _react2.default.createElement(
+                "a",
+                { href: "landing.html", className: "link" },
+                "Android"
               )
             ),
             _react2.default.createElement(
@@ -19002,8 +19002,8 @@ var Banner = function (_Component) {
             { className: "major" },
             _react2.default.createElement(
               "h1",
-              null,
-              " Implementing the Future"
+              { className: "tag" },
+              "< Implementing the Future />"
             )
           ),
           _react2.default.createElement(
@@ -19025,7 +19025,7 @@ var Banner = function (_Component) {
                 _react2.default.createElement(
                   "a",
                   { href: "#one", className: "button next scrolly" },
-                  "Get Started"
+                  "Read the Blog"
                 )
               )
             )
@@ -19116,7 +19116,7 @@ var Menu = function (_Component) {
             _react2.default.createElement(
               "a",
               { href: "elements.html" },
-              "Elements"
+              "Blog"
             )
           )
         ),

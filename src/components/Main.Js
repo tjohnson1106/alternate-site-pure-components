@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component, Image, Video } from "react";
 
 class Main extends Component {
   render() {
@@ -6,7 +6,7 @@ class Main extends Component {
       <section id="one" className="tiles">
         <article>
           <span className="image">
-            <img src="images/pic01.jpg" alt="" />
+            <img src="../images/horizon_dark.jpg" alt="" />
           </span>
           <header className="major">
             <h3>
@@ -19,20 +19,7 @@ class Main extends Component {
         </article>
         <article>
           <span className="image">
-            <img src="images/pic02.jpg" alt="" />
-          </span>
-          <header className="major">
-            <h3>
-              <a href="landing.html" className="link">
-                Android
-              </a>
-            </h3>
-            <p>feugiat amet tempus</p>
-          </header>
-        </article>
-        <article>
-          <span className="image">
-            <img src="images/pic03.jpg" alt="" />
+            <img src="../images/Web.jpg" alt="" />
           </span>
           <header className="major">
             <h3>
@@ -40,17 +27,31 @@ class Main extends Component {
                 Web
               </a>
             </h3>
+            <p>feugiat amet tempus</p>
+          </header>
+        </article>
+        <article>
+          <span className="image">
+            {" "}
+            <img src="../images/design.jpg" alt="" />
+          </span>
+          <header className="major">
+            <h3>
+              <a href="landing.html" className="link">
+                Design
+              </a>
+            </h3>
             <p>Lorem etiam nullam</p>
           </header>
         </article>
         <article>
           <span className="image">
-            <img src="images/pic04.jpg" alt="" />
+            <img src="../images/android.jpg" alt="" />
           </span>
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Ipsum
+                Android
               </a>
             </h3>
             <p>Nisl sed aliquam</p>

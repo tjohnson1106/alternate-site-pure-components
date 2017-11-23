@@ -6,7 +6,7 @@ class Banner extends Component {
       <section id="banner" className="major">
         <div className="inner">
           <header className="major">
-            <h1> Implementing the Future</h1>
+            <h1 className="tag">&lt; Implementing the Future /&gt;</h1>
           </header>
           <div className="content">
             <p>
@@ -16,7 +16,7 @@ class Banner extends Component {
             <ul className="actions">
               <li>
                 <a href="#one" className="button next scrolly">
-                  Get Started
+                  Read the Blog
                 </a>
               </li>
             </ul>

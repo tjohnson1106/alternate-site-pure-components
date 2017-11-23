@@ -34,7 +34,7 @@ class Contact extends Component {
               <div class="contact-method">
                 <span class="icon alt fa-envelope" />
                 <h3>Email</h3>
-                <a href="#">information@untitled.tld</a>
+                <a href="#">info@bracketfactory.com</a>
               </div>
             </section>
             <section>
@@ -49,9 +49,8 @@ class Contact extends Component {
                 <span class="icon alt fa-home" />
                 <h3>Address</h3>
                 <span>
-                  1234 Somewhere Road #5432<br />
-                  Nashville, TN 00000<br />
-                  United States of America
+                  323 East 21st Street<br />
+                  New York, NY 10010<br />
                 </span>
               </div>
             </section>

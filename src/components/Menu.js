@@ -15,7 +15,7 @@ class Menu extends Component {
             <a href="generic.html">Contact</a>
           </li>
           <li>
-            <a href="elements.html">Elements</a>
+            <a href="elements.html">Blog</a>
           </li>
         </ul>
         <ul className="actions vertical">

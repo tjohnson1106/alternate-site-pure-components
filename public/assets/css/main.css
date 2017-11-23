@@ -1,11 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
-/*
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 /* Reset */
 
@@ -1626,6 +1622,17 @@
 		background: #242943;
 	}
 
+
+	
+	
+	@keyframes type{
+		from { width: 0; }
+	}
+	
+	@-webkit-keyframes type{
+		from { width: 0; }
+	}
+
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -1635,13 +1642,15 @@
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
+
+			
 		}
 
 /* Type */
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family:  "Raleway", Helvetica, Source Sans Pro, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -1718,7 +1727,16 @@
 
 	h1 {
 		font-size: 2.5em;
+	
+		
+
+		
 	}
+
+
+
+
+
 
 	h2 {
 		font-size: 1.75em;
@@ -1744,7 +1762,7 @@
 
 		h1 {
 			font-size: 2em;
-		}
+              }
 
 		h2 {
 			font-size: 1.5em;
@@ -1807,6 +1825,8 @@
 			margin: 3em 0;
 		}
 
+
+
 	.align-left {
 		text-align: left;
 	}
@@ -1825,7 +1845,7 @@
 		text-align: center;
 	}
 
-	header.major {
+	majorheader. {
 		width: -moz-max-content;
 		width: -webkit-max-content;
 		width: -ms-max-content;
@@ -3454,7 +3474,30 @@
 
 		#banner h1 {
 			font-size: 3.25em;
+
 		}
+
+		#banner > .inner .major .tag {
+
+			width: 30em;
+			white-space:nowrap;
+			overflow:hidden;
+			-webkit-animation: type 2.3s steps(175, end);
+			animation: type 2.3s steps(175, end);
+		}
+		
+		@keyframes type{
+			from { width: 0; }
+		}
+		
+		@-webkit-keyframes type{
+			from { width: 0; }
+		}
+
+		
+
+
+	
 
 		#banner > .inner {
 			-moz-transition: opacity 1.5s ease, -moz-transform 0.5s ease-out, -moz-filter 0.5s ease, -webkit-filter 0.5s ease;
@@ -3515,6 +3558,7 @@
 			min-height: 30em;
 			max-height: 50em;
 		}
+		
 
 			#banner.major.alt {
 				opacity: 0.75;
