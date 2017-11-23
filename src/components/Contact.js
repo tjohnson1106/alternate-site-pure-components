@@ -41,7 +41,7 @@ class Contact extends Component {
               <div class="contact-method">
                 <span class="icon alt fa-phone" />
                 <h3>Phone</h3>
-                <span>(000) 000-0000 x12387</span>
+                <span> (646) 481-0317 </span>
               </div>
             </section>
             <section>

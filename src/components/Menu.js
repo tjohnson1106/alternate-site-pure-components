@@ -21,7 +21,7 @@ class Menu extends Component {
         <ul className="actions vertical">
           <li>
             <a href="#" className="button special fit">
-              Our Work
+              Our Work(Coming Soon)
             </a>
           </li>
           <li>

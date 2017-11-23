@@ -1,4 +1,4 @@
-import React, { Component, Image, Video } from "react";
+import React, { Component, Image } from "react";
 
 class Main extends Component {
   render() {
@@ -59,12 +59,12 @@ class Main extends Component {
         </article>
         <article>
           <span className="image">
-            <img src="images/pic05.jpg" alt="" />
+            <img src="../images/resources.jpg" alt="" />
           </span>
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Consequat
+                Resources
               </a>
             </h3>
             <p>Ipsum dolor sit amet</p>
@@ -72,12 +72,12 @@ class Main extends Component {
         </article>
         <article>
           <span className="image">
-            <img src="images/pic06.jpg" alt="" />
+            <img src="../images/articles.jpg" alt="" />
           </span>
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Etiam
+                Articles
               </a>
             </h3>
             <p>Feugiat amet tempus</p>

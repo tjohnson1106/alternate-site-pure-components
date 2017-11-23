@@ -18625,7 +18625,7 @@ var Contact = function (_Component) {
                 _react2.default.createElement(
                   "span",
                   null,
-                  "(000) 000-0000 x12387"
+                  " (646) 481-0317 "
                 )
               )
             ),
@@ -18711,13 +18711,13 @@ var Filler = function (_Component) {
             _react2.default.createElement(
               "h2",
               null,
-              "Massa libero"
+              "A Culture of Building Products"
             )
           ),
           _react2.default.createElement(
             "p",
             null,
-            "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."
+            "Check Out our Tech Stack"
           ),
           _react2.default.createElement(
             "ul",
@@ -18728,7 +18728,7 @@ var Filler = function (_Component) {
               _react2.default.createElement(
                 "a",
                 { href: "landing.html", className: "button next" },
-                "Get Started"
+                "Discover the Process"
               )
             )
           )
@@ -18897,7 +18897,7 @@ var Main = function (_Component) {
           _react2.default.createElement(
             "span",
             { className: "image" },
-            _react2.default.createElement("img", { src: "images/pic05.jpg", alt: "" })
+            _react2.default.createElement("img", { src: "../images/resources.jpg", alt: "" })
           ),
           _react2.default.createElement(
             "header",
@@ -18908,7 +18908,7 @@ var Main = function (_Component) {
               _react2.default.createElement(
                 "a",
                 { href: "landing.html", className: "link" },
-                "Consequat"
+                "Resources"
               )
             ),
             _react2.default.createElement(
@@ -18924,7 +18924,7 @@ var Main = function (_Component) {
           _react2.default.createElement(
             "span",
             { className: "image" },
-            _react2.default.createElement("img", { src: "images/pic06.jpg", alt: "" })
+            _react2.default.createElement("img", { src: "../images/articles.jpg", alt: "" })
           ),
           _react2.default.createElement(
             "header",
@@ -18935,7 +18935,7 @@ var Main = function (_Component) {
               _react2.default.createElement(
                 "a",
                 { href: "landing.html", className: "link" },
-                "Etiam"
+                "Articles"
               )
             ),
             _react2.default.createElement(
@@ -19012,7 +19012,7 @@ var Banner = function (_Component) {
             _react2.default.createElement(
               "p",
               null,
-              "NYC Based Mobile and Web Developers",
+              "NYC Based Mobile and Web Application",
               _react2.default.createElement("br", null),
               "Building For Tomorrow"
             ),
@@ -19129,7 +19129,7 @@ var Menu = function (_Component) {
             _react2.default.createElement(
               "a",
               { href: "#", className: "button special fit" },
-              "Our Work"
+              "Our Work(Coming Soon)"
             )
           ),
           _react2.default.createElement(
@@ -19212,7 +19212,7 @@ var Header = function (_Component) {
           _react2.default.createElement(
             "a",
             { href: "#menu" },
-            "Menu"
+            "Create an Experience (Do Not Press)"
           )
         )
       );

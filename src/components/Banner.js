@@ -10,7 +10,7 @@ class Banner extends Component {
           </header>
           <div className="content">
             <p>
-              NYC Based Mobile and Web Developers<br />
+              NYC Based Mobile and Web Application<br />
               Building For Tomorrow
             </p>
             <ul className="actions">
