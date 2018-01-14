@@ -11,10 +11,10 @@ class Main extends Component {
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                IOS
+                iOS
               </a>
             </h3>
-            <p>Ipsum dolor sit amet</p>
+            <p>iPhone iPad Apple Watch </p>
           </header>
         </article>
         <article>

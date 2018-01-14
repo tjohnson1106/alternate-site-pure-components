@@ -37,8 +37,8 @@ class Footer extends Component {
               </a>
             </li>
             <li>
-              <a href="#" class="icon alt fa-google-plus-circle ">
-                <span class="label">Google Plus</span>
+              <a href="https://www.linkedin.com/company/bracket-factory/" class="icon alt fa-linkedin">
+                <span class="label">LinkedIn</span>
               </a>
             </li>
           </ul>
