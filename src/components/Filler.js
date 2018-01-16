@@ -8,10 +8,10 @@ class Filler extends Component {
           <header className="major">
             <h2>A Culture of Building Products</h2>
           </header>
-          <p>Check Out our Tech Stack</p>
+          <p></p>
           <ul className="actions">
             <li>
-              <a href="landing.html" className="button next">
+              <a href="https://medium.com/@estebanrules" className="button next">
                 Discover the Process
               </a>
             </li>

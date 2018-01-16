@@ -10,11 +10,11 @@ class Main extends Component {
           </span>
           <header className="major">
             <h3>
-              <a href="landing.html" className="link">
-                iOS
+              <a href="#" className="link">
+                iOS Applications
               </a>
             </h3>
-            <p>iPhone iPad Apple Watch </p>
+            <p>iPhone iPad Apple Watch</p>
           </header>
         </article>
         <article>
@@ -24,10 +24,10 @@ class Main extends Component {
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Web
+               Progressive Web Applications
               </a>
             </h3>
-            <p>feugiat amet tempus</p>
+            <p>Personal Enterprise Responsive</p>
           </header>
         </article>
         <article>
@@ -38,10 +38,10 @@ class Main extends Component {
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Design
+                Dedicated to Design
               </a>
             </h3>
-            <p>Lorem etiam nullam</p>
+            <p>clean modern human</p>
           </header>
         </article>
         <article>
@@ -51,10 +51,10 @@ class Main extends Component {
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Android
+                Android Applications
               </a>
             </h3>
-            <p>Nisl sed aliquam</p>
+            <p>Developing for a world of devices</p>
           </header>
         </article>
         <article>
@@ -64,10 +64,10 @@ class Main extends Component {
           <header className="major">
             <h3>
               <a href="landing.html" className="link">
-                Resources
+                Cross-Platform Resources
               </a>
             </h3>
-            <p>Ipsum dolor sit amet</p>
+            <p>Code as Art Art as Code</p>
           </header>
         </article>
         <article>
@@ -80,7 +80,7 @@ class Main extends Component {
                 Articles
               </a>
             </h3>
-            <p>Feugiat amet tempus</p>
+            <p>Bleeding Edge Information</p>
           </header>
         </article>
       </section>

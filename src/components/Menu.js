@@ -24,11 +24,6 @@ class Menu extends Component {
               Our Work(Coming Soon)
             </a>
           </li>
-          <li>
-            <a href="#" className="button fit">
-              Log In
-            </a>
-          </li>
         </ul>
       </nav>
     );

@@ -34,7 +34,8 @@ class Contact extends Component {
               <div class="contact-method">
                 <span class="icon alt fa-envelope" />
                 <h3>Email</h3>
-                <a href="#">info@bracketfactory.com</a>
+                {/*remember change*/}
+                <a href="localhost:3000">tjohnson1106@gmail.com</a>
               </div>
             </section>
             <section>
