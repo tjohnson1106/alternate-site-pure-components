@@ -19094,7 +19094,7 @@ var Menu = function (_Component) {
             null,
             _react2.default.createElement(
               "a",
-              { href: "index.html" },
+              { href: "/" },
               "Home"
             )
           ),
@@ -19103,7 +19103,7 @@ var Menu = function (_Component) {
             null,
             _react2.default.createElement(
               "a",
-              { href: "landing.html" },
+              { href: "#footer" },
               "Social"
             )
           ),
@@ -19112,7 +19112,7 @@ var Menu = function (_Component) {
             null,
             _react2.default.createElement(
               "a",
-              { href: "generic.html" },
+              { href: "#contact" },
               "Contact"
             )
           ),
@@ -19121,7 +19121,7 @@ var Menu = function (_Component) {
             null,
             _react2.default.createElement(
               "a",
-              { href: "elements.html" },
+              { href: "http://damianesteban.com" },
               "Blog"
             )
           )
@@ -19134,7 +19134,7 @@ var Menu = function (_Component) {
             null,
             _react2.default.createElement(
               "a",
-              { href: "#", className: "button special fit" },
+              { href: "/", className: "button special fit" },
               "Our Work(Coming Soon)"
             )
           )
