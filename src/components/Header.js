@@ -4,7 +4,7 @@ class Header extends Component {
   render() {
     return (
       <header id="header" className="alt">
-        <a href="index.html" className="logo">
+        <a href="/" className="logo">
           <strong>Bracket</strong> <span>Factory</span>
         </a>
         <nav>
