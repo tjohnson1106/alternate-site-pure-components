@@ -10,7 +10,7 @@ class Main extends Component {
           </span>
           <header className="major">
             <h3>
-              <a href="#" className="link">
+              <a href="/" className="link">
                 iOS Applications
               </a>
             </h3>
@@ -23,8 +23,8 @@ class Main extends Component {
           </span>
           <header className="major">
             <h3>
-              <a href="landing.html" className="link">
-               Progressive Web Applications
+              <a href="/" className="link">
+                Progressive Web Applications
               </a>
             </h3>
             <p>Personal Enterprise Responsive</p>
@@ -37,7 +37,7 @@ class Main extends Component {
           </span>
           <header className="major">
             <h3>
-              <a href="landing.html" className="link">
+              <a href="/" className="link">
                 Dedicated to Design
               </a>
             </h3>
@@ -50,7 +50,7 @@ class Main extends Component {
           </span>
           <header className="major">
             <h3>
-              <a href="landing.html" className="link">
+              <a href="/" className="link">
                 Android Applications
               </a>
             </h3>
@@ -63,7 +63,7 @@ class Main extends Component {
           </span>
           <header className="major">
             <h3>
-              <a href="landing.html" className="link">
+              <a href="/" className="link">
                 Cross-Platform Resources
               </a>
             </h3>
@@ -76,7 +76,7 @@ class Main extends Component {
           </span>
           <header className="major">
             <h3>
-              <a href="landing.html" className="link">
+              <a href="https://medium.com/@estebanrules" className="link">
                 Articles
               </a>
             </h3>

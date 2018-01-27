@@ -18804,7 +18804,7 @@ var Main = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "#", className: "link" },
+                { href: "/", className: "link" },
                 "iOS Applications"
               )
             ),
@@ -18831,7 +18831,7 @@ var Main = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "landing.html", className: "link" },
+                { href: "/", className: "link" },
                 "Progressive Web Applications"
               )
             ),
@@ -18859,7 +18859,7 @@ var Main = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "landing.html", className: "link" },
+                { href: "/", className: "link" },
                 "Dedicated to Design"
               )
             ),
@@ -18886,7 +18886,7 @@ var Main = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "landing.html", className: "link" },
+                { href: "/", className: "link" },
                 "Android Applications"
               )
             ),
@@ -18913,7 +18913,7 @@ var Main = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "landing.html", className: "link" },
+                { href: "/", className: "link" },
                 "Cross-Platform Resources"
               )
             ),
@@ -18940,7 +18940,7 @@ var Main = function (_Component) {
               null,
               _react2.default.createElement(
                 "a",
-                { href: "landing.html", className: "link" },
+                { href: "https://medium.com/@estebanrules", className: "link" },
                 "Articles"
               )
             ),
