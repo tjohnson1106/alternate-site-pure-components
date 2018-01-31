@@ -1,32 +1,12 @@
-import React from 'react';
-
+import React from "react";
 
 const routes = [
-  { path: '/ Menu', action: () => <Menu /> },
-  { path: '/Footer', action: () => <Footer /> },
-  { path: '/Contact', action: () => <Contact /> }
+  { path: "/ Menu", action: () => <Menu /> },
+  { path: "/Footer", action: () => <Footer /> },
+  { path: "/Contact", action: () => <Contact /> }
 ];
 
 export default routes;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*import React from "react";
 import { BrowserRouter, Router, Route, Switch } from "react-router-dom";
