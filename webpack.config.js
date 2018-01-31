@@ -3,8 +3,8 @@ var path = require("path");
 const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 var S3Plugin = require("webpack-s3-plugin");
 
-// const AWS_ACCESS_KEY_ID = " AKIAJ4VUDGDJ5DPJGAQA ";
-// const AWS_SECRET_ACCESS_KEY = "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";
+// const AWS_ACCESS_KEY_ID = "  ";
+// const AWS_SECRET_ACCESS_KEY = "";
 
 // if (process.env.TARGET_ENV !== "dev") {
 //   var s3Plugin = new S3Plugin({});
@@ -41,8 +41,8 @@ module.exports = {
       exclude: /.*\.html$/,
       s3Options: {
         region: "us-east-1",
-        accessKeyId: "AKIAJ4VUDGDJ5DPJGAQA",
-        secretAccessKey: "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"
+        accessKeyId: "",
+        secretAccessKey: ""
       },
       s3UploadOptions: {
         Bucket: "bracket-factory-site"
