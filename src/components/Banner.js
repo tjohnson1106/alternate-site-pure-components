@@ -10,12 +10,12 @@ class Banner extends Component {
           </header>
           <div className="content">
             <p>
-              NYC Based Mobile and Web Application<br />
-              Building For Tomorrow
+              NYC Based Mobile and Progressive Web Applications<br />
+              Building For Tomorrow Right Now
             </p>
             <ul className="actions">
               <li>
-                <a href="#one" className="button next scrolly">
+                <a href="http://damianesteban.com/" className="button next scrolly">
                   Read the Blog
                 </a>
               </li>

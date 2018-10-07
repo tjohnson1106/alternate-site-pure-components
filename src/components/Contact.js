@@ -6,7 +6,7 @@ class Contact extends Component {
       <section id="contact">
         <div class="inner">
           <section>
-            <form method="post" action="#">
+            <form action="mailto: tjohnson1106@gmail.com" method="post">
               <div class="field half first">
                 <label for="name">Name</label>
                 <input type="text" name="name" id="name" />
@@ -34,7 +34,10 @@ class Contact extends Component {
               <div class="contact-method">
                 <span class="icon alt fa-envelope" />
                 <h3>Email</h3>
-                <a href="#">info@bracketfactory.com</a>
+                {/*remember change*/}
+                <a href="mailto:tjohnson1106@gmail.com">
+                  tjohnson1106@gmail.com
+                </a>
               </div>
             </section>
             <section>

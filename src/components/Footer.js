@@ -23,7 +23,8 @@ class Footer extends Component {
               </a>
             </li>
             <li>
-              <a href="#" class="icon alt fa-instagram">
+              <a href="https://www.instagram.com/bracketfactory/"
+               class="icon alt fa-instagram">
                 <span class="label">Instagram</span>
               </a>
             </li>
@@ -36,7 +37,7 @@ class Footer extends Component {
               </a>
             </li>
             <li>
-              <a href="#" class="icon alt fa-linkedin">
+              <a href="https://www.linkedin.com/company/bracket-factory/" class="icon alt fa-linkedin">
                 <span class="label">LinkedIn</span>
               </a>
             </li>
